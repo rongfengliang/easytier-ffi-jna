@@ -8,7 +8,7 @@
 <repositories>
   <repository>
     <id>github</id>
-    <url>https://maven.pkg.github.com/rongfengliang/*</url>
+    <url>https://maven.pkg.github.com/rongfengliang/easytier-ffi-jna</url>
   </repository>
 </repositories>
 ```
@@ -20,7 +20,7 @@
  <dependency>
     <groupId>com.dalong</groupId>
     <artifactId>easytier-ffi-java</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0-SNAPSHOT</version>
   </dependency>
 </dependencies>
 ```
