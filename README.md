@@ -18,8 +18,8 @@
 ```xml
 <dependencies>
  <dependency>
-    <groupId>com.example</groupId>
-    <artifactId>test</artifactId>
+    <groupId>com.dalong</groupId>
+    <artifactId>easytier-ffi-java</artifactId>
     <version>1.0.0-SNAPSHOT</version>
   </dependency>
 </dependencies>
