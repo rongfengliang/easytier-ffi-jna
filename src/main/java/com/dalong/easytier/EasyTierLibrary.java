@@ -9,7 +9,6 @@ import java.util.List;
 public interface EasyTierLibrary extends Library {
 
     class KeyValuePair extends Structure {
-        public static class ByReference extends KeyValuePair implements Structure.ByReference {}
 
         public Pointer key;
         public Pointer value;

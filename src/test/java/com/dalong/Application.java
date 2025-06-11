@@ -1,5 +1,6 @@
-package com.dalong.easytier;
+package com.dalong;
 
+import com.dalong.easytier.EasyTierLibrary;
 import com.sun.jna.ptr.PointerByReference;
 
 import java.io.IOException;
